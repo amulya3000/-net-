@@ -1,0 +1,14 @@
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/bin/Debug/net10.0/Task_three
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/bin/Debug/net10.0/Task_three.deps.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/bin/Debug/net10.0/Task_three.runtimeconfig.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/bin/Debug/net10.0/Task_three.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/bin/Debug/net10.0/Task_three.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.AssemblyInfoInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.AssemblyInfo.cs
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.csproj.CoreCompileInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/refint/Task_three.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/Task_three.genruntimeconfig.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_three/obj/Debug/net10.0/ref/Task_three.dll

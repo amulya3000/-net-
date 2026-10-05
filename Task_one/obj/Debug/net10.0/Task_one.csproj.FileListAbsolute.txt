@@ -1,0 +1,14 @@
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/bin/Debug/net10.0/Task_one
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/bin/Debug/net10.0/Task_one.deps.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/bin/Debug/net10.0/Task_one.runtimeconfig.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/bin/Debug/net10.0/Task_one.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/bin/Debug/net10.0/Task_one.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.AssemblyInfoInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.AssemblyInfo.cs
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.csproj.CoreCompileInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/refint/Task_one.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/Task_one.genruntimeconfig.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_one/obj/Debug/net10.0/ref/Task_one.dll

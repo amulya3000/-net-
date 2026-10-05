@@ -1,0 +1,14 @@
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/bin/Debug/net10.0/Task_four
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/bin/Debug/net10.0/Task_four.deps.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/bin/Debug/net10.0/Task_four.runtimeconfig.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/bin/Debug/net10.0/Task_four.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/bin/Debug/net10.0/Task_four.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.AssemblyInfoInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.AssemblyInfo.cs
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.csproj.CoreCompileInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/refint/Task_four.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/Task_four.genruntimeconfig.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_four/obj/Debug/net10.0/ref/Task_four.dll
