@@ -1,0 +1,15 @@
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /bin/Debug/net10.0/Task_six
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /bin/Debug/net10.0/Task_six.deps.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /bin/Debug/net10.0/Task_six.runtimeconfig.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /bin/Debug/net10.0/Task_six.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /bin/Debug/net10.0/Task_six.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.AssemblyInfoInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.AssemblyInfo.cs
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.csproj.CoreCompileInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.sourcelink.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/refint/Task_six.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/Task_six.genruntimeconfig.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_six /obj/Debug/net10.0/ref/Task_six.dll
