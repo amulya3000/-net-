@@ -1,0 +1,15 @@
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /bin/Debug/net10.0/Task_five
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /bin/Debug/net10.0/Task_five.deps.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /bin/Debug/net10.0/Task_five.runtimeconfig.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /bin/Debug/net10.0/Task_five.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /bin/Debug/net10.0/Task_five.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.AssemblyInfoInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.AssemblyInfo.cs
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.csproj.CoreCompileInputs.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.sourcelink.json
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/refint/Task_five.dll
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.pdb
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/Task_five.genruntimeconfig.cache
+/Users/amulyaniraula/RiderProjects/workshop_2/Task_five /obj/Debug/net10.0/ref/Task_five.dll
